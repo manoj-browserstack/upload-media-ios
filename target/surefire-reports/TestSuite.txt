@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 6, Errors: 0, Skipped: 3, Time elapsed: 256.11 sec <<< FAILURE! - in TestSuite
+setUp(com.browserstack.BStackDemoTest)  Time elapsed: 200.501 sec  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Caused by: org.openqa.selenium.WebDriverException: 
+Could not start Mobile Browser. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 200.07 seconds
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'ManojKumar-FVFH71A4Q05N', ip: 'fe80:0:0:0:1457:9060:622:2edd%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.2.1', java.version: '21'
+Driver info: driver.version: ChromeDriver
+
+tearDown(com.browserstack.BStackDemoTest)  Time elapsed: 1.617 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "this.driver" is null
+
+setUp(com.browserstack.BStackDemoTest)  Time elapsed: 12.947 sec  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Caused by: org.openqa.selenium.WebDriverException: 
+Could not start Mobile Browser. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 213.07 seconds
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'ManojKumar-FVFH71A4Q05N', ip: 'fe80:0:0:0:1457:9060:622:2edd%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.2.1', java.version: '21'
+Driver info: driver.version: ChromeDriver
+
+tearDown(com.browserstack.BStackDemoTest)  Time elapsed: 1.643 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "this.driver" is null
+
+setUp(com.browserstack.BStackDemoTest)  Time elapsed: 41.058 sec  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Caused by: org.openqa.selenium.WebDriverException: 
+Could not start Mobile Browser. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 254.13 seconds
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'ManojKumar-FVFH71A4Q05N', ip: 'fe80:0:0:0:1457:9060:622:2edd%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.2.1', java.version: '21'
+Driver info: driver.version: ChromeDriver
+
+tearDown(com.browserstack.BStackDemoTest)  Time elapsed: 1.516 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "this.driver" is null
+

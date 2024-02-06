@@ -1,0 +1,75 @@
+16:24:08.738 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:24:08.739 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:24:08.825 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/testng-browserstack-master/browserstack.yml
+16:24:08.846 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:24:08.956 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:24:17.687 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/r7ksfbreh0w7afu4eabr4yfmeqras7nvleprkpex to view build report, insights, and many more debugging information all at one place!
+
+16:24:53.631 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:24:53.632 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:24:53.719 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/testng-browserstack-master/browserstack.yml
+16:24:53.739 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:24:53.848 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:27:58.114 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/i0ke3rg3qh55t0f54sxmiiejzdugvkzhpw9i7wiy to view build report, insights, and many more debugging information all at one place!
+
+16:27:58.733 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/61a7b6f9ce176a13411055cd6469283010593fa4
+16:27:58.734 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:28:41.656 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:28:41.658 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:28:41.741 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/testng-browserstack-master/browserstack.yml
+16:28:41.760 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:28:41.868 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:29:50.905 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/0i4dwowx63cpao071p1vskbyui5idunuczfb3nfv to view build report, insights, and many more debugging information all at one place!
+
+16:29:51.309 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/4a16c0933752fd5eecd272683f41cfd0b09e2ccb
+16:29:51.309 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:30:39.873 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:30:39.874 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:30:39.956 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/testng-browserstack-master/browserstack.yml
+16:30:39.975 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:30:40.080 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:32:26.101 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/msibowtdpnjfamfxbtzzcqlar10wk2tcrtu9swjo to view build report, insights, and many more debugging information all at one place!
+
+16:32:27.431 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/eff92571a2c2bfdbb9c762ccaeb43c0e864d9441
+16:32:27.431 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:38:56.551 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:38:56.553 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:38:56.637 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/testng-browserstack-master/browserstack.yml
+16:38:56.656 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:38:56.762 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:39:06.309 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dt0wbvesvufrlc2ure53lyf3fxfaxyunrzh6nsca to view build report, insights, and many more debugging information all at one place!
+
+16:39:58.363 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:39:58.365 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:39:58.446 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/testng-browserstack-master/browserstack.yml
+16:39:58.467 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:39:58.600 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:40:07.417 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/shjabg9zrubxv6lhvpfkypcs0o2uphkuxnka2dq7 to view build report, insights, and many more debugging information all at one place!
+
+16:43:05.056 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:43:05.057 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:43:05.140 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/testng-browserstack-master/browserstack.yml
+16:43:05.160 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:43:05.266 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:44:13.347 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rzswmjg6wmpss5t0g8cfj7bjfavkkddebjxmsjow to view build report, insights, and many more debugging information all at one place!
+
+16:44:13.818 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7304445c6089d3c0268925b5515ef3ecd276d9ed
+16:44:13.819 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:48.278 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:47:48.279 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:47:48.360 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/testng-browserstack-master/browserstack.yml
+16:47:48.380 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:47:48.485 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:51:04.905 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gx3e6rdppvwaxmiodrc2vk5aqbxs7fpzlfjctit4 to view build report, insights, and many more debugging information all at one place!
+
+16:51:05.295 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/260b76bbbe7ffc35156f53cc537dd8e92493414b
+16:51:05.295 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:03:14.176 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+20:03:14.179 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+20:03:14.284 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/FD/upload-media-1080820/browserstack.yml
+20:03:14.308 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:03:14.444 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+20:07:37.511 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dce0gcncc7n1uipcnjoog1vkziancpftezhkrx53 to view build report, insights, and many more debugging information all at one place!
+
+20:07:37.944 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/bbeedcb8d9101509a90a314484621b88b9ed522f
+20:07:37.945 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
