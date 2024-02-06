@@ -17,7 +17,5 @@ buildName: browserstack-build-upload
 projectName: BrowserStack Sample
 #customer files
 uploadMedia: [media://1a72a45d9178482bf5917dfa7d3aca41bf440749, media://720be51f76afd980151e6cd3e24f31923420daf3]
-# ashwin files
-#uploadMedia: [media://4a93b371c1defd18f7fbbfabe6eba630e3b73060, media://237c92241c2bce0c0e3a205d249024e0eeae5b37]
 #customer compressed files
 #uploadMedia: [media://67523b3038aa34776b94c84d6d798bd7cadd929c, media://f675a20e3039d81b2745a625a2020f2457463039]
